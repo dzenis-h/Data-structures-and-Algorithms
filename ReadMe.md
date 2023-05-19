@@ -1,6 +1,6 @@
 # Data Structures and Algorithms for JavaScript Interview Preparation
 
-This Gist contains resources and practice problems for data structures and algorithms commonly covered in JavaScript technical interviews - Data structures & Algorithms
+This repo contains resources and practice problems for data structures and algorithms commonly covered in JavaScript technical interviews - Data structures & Algorithms
 
 // JS Interview preparation 👨‍💻📊📋
 // Almost 2.000 lines of practice code. It might help you. Check it out.
